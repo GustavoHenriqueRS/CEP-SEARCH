@@ -24,7 +24,7 @@ function App() {
   
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>GUSTAVO HENRIQUE</h1>
+      <h1 className={styles.title}>CEP SEARCH</h1>
       <div className={styles.containerInput}>
         <input
           type="text"
